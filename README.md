@@ -1,4 +1,4 @@
-# Luanvsky
+# Scrumvsky
 ## Metodologia Ágil
 
 ### Origem do Agile
