@@ -1,14 +1,32 @@
-# Scrumvsky
-## Metodologia Ágil
+# Bem-vindo ao repositório de Expenvsky! 💰🚀
 
-### Origem do Agile
+Olá, entusiastas das finanças! 👋
 
-A engenharia de Software surgiu depois das outras engenharias já existentes e, por ser uma engenharia, ela herdou o mindset das que vieram antes.
+Este repositório é o resultado da minha experiência pessoal aplicando a metodologia ágil na gestão das minhas finanças. 
 
-O método de desenvolvimento de projetos usado, chamado de Waterfall, foi herdado de outras engenharias, nas quais cada projeto era dividido em fases que dependiam da fase anterior ser aprovada, tendo um conjunto de requisitos. As fases só avançam, e isso tornava seus clientes satisfeitos.
+## O que tem aqui? 🤔
 
-Um exemplo que aplica o método Waterfall na engenharia civil é o de construção de imóveis: o processo de construção de um imóvel é dividido em fases, como análise do terreno, fundação e pilares de sustentação. Uma vez que uma fase é aprovada e finalizada ela não pode ser alterada.
+Este repositório é um reflexo do meu compromisso com a gestão financeira eficiente. Aqui, você encontrará:
 
-Porém, para o desenvolvimento de software, esse método herdado de engenharias não era o ideal, porque a cada tarefa concluída eram validadas novas mudanças a partir de feedbacks, o que fazia com que o fluxo fosse alterado.
+1. **Planilhas de orçamento** que usei para manter minhas finanças sob controle! 📊
+2. **Relatórios de investimento** que refletem minhas escolhas financeiras ao longo do tempo! 🧠💡
 
-Para a engenharia de software o método Waterfall já não dava conta das mudanças que ocorriam no meio do caminho. Então ele teve que passar por uma reestruturação para que, depois dos feedbacks de cada tarefa desenvolvida, o fluxo pudesse ser alterado durante o processo de desenvolvimento do projeto.
+A razão pela qual escolhi a metodologia ágil para este projeto é porque ela permite flexibilidade e adaptabilidade, que são cruciais na gestão financeira. A metodologia ágil me permitiu fazer ajustes rápidos em minha estratégia financeira com base em mudanças nas condições do mercado e em minha situação financeira pessoal. Isso resultou em uma gestão financeira mais eficiente e eficaz.
+
+## Contribuições 💼
+
+Sinta-se à vontade para abrir um PR ou uma issue. Vamos fazer deste repositório um recurso incrível para todos! 🤝
+
+Lembre-se, o gerenciamento financeiro não precisa ser chato. Vamos torná-lo divertido juntos! 😄
+
+
+>Respeito gera respeito.
+>
+>Seja um farol na vida alheia,
+>
+>com seus exemplos de atos e
+>
+>comportamento.
+>
+>_- Pai Damião_
+>
